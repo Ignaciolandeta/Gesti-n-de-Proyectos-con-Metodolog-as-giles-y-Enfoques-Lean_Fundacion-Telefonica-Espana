@@ -75,9 +75,7 @@ Una manera de gestionar proyectos tradicionales.
 
 
 #MODULO 4 - ARTEFACTOS DE SCRUM
-Test done
-Your result in the test was: 100
-You have passed the test.
+Test done. Your result in the test was: 100. You have passed the test.
 Your answers
 
 1. ¿Qué es la Pila de Producto?
@@ -114,6 +112,7 @@ Respeto.
 #MODULO 5 - REUNIONES DE SCRUM
 
 
+
 #MODULO 6 - ROLES EN SCRUM
 Test done. Your result in the test was: 100. You have passed the test.
 Your answers
@@ -147,6 +146,40 @@ El equipo de construcción no forma parte del equipo Scrum.
 El dueño de producto no forma parte del equipo Scrum, solo son el equipo de construcción y el Scrum Master.
 El equipo Scrum es el equipo de construcción exclusivamente.
 CORRECTO--> El equipo Scrum está formado por dueño de producto, Scrum Master y equipo de construcción.
+
+#MODULO 7 - ESTIMACIONES AGILES
+Test done. Your result in the test was: 100. You have passed the test.
+Your answers;
+
+1. ¿Para qué sirven las estimaciones?
+Para meter presión a los equipos de construcción.
+Para poder justificar los retrasos posteriores.
+CORRECTO--> Para establecer ámbitos de magnitud y poder hacernos una idea de la complejidad de los proyectos.
+No sirven para nada realmente.
+
+2. ¿Qué es el Planning Poker?
+Es una técnica para aprender a estimar.
+CORRECTO--> Es una técnica para hacer estimaciones en equipo, y llegar al consenso sin perder demasiado tiempo.
+Es una técnica para desgranar elementos de la pila de producto.
+Todas las respuestas anteriores son correctas.
+
+3. ¿En qué momento se realiza la estimación?
+En la reunión de retrospectiva.
+CORRECTO--> En la reunión de planificación.
+En la reunión de revisión o demo.
+En cualquier momento del sprint.
+
+4. En los enfoques ágiles, ¿cuál es el principal objetivo de las estimaciones?
+Justificar el esfuerzo y dedicación.
+Poder dar un precio final al cliente.
+Poder echarle la culpa a los programadores.
+CORRECTO--> Generar conversación entre los miembros del equipo.
+
+5. ¿Qué enfoque de estimación prefieren las metodologías ágiles?
+Enfoques en horas y días ideales.
+CORRECTO--> Enfoque relativo en puntos de historia.
+En metodologías ágiles no se estima.
+Todas las respuestas anteriores son incorrectas.
 
 
 
